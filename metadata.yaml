@@ -1,0 +1,25 @@
+_repo: Myths-and-Legends-of-Our-Own-Land---Volume-09---as-to-buried-treasure_6614
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Skinner, Charles M. (Charles Montgomery)
+    alias: Skinner, Charles Montgomery
+    birthdate: 1852
+    deathdate: 1907
+    gutenberg_agent_id: '2113'
+    url: http://www.gutenberg.org/2009/agents/2113
+description: ''
+gutenberg_issued: '2004-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6614'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GR'
+- !lcsh 'Folklore -- United States'
+- GITenberg
+title: 'Myths and Legends of Our Own Land — Volume 09 : as to buried treasure'
+url: http://www.gutenberg.org/ebooks/6614
