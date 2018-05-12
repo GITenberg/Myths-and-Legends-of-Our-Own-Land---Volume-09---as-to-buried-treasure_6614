@@ -1,5 +1,8 @@
 _repo: Myths-and-Legends-of-Our-Own-Land---Volume-09---as-to-buried-treasure_6614
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Skinner, Charles M. (Charles Montgomery)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '2113'
     url: http://www.gutenberg.org/2009/agents/2113
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6614#Myths-and-Legends-of-Our-Own-Land---Volume-09---as-to-buried-treasure
 gutenberg_issued: '2004-12-14'
 gutenberg_type: Text
 identifiers:
